@@ -1,4 +1,3 @@
-# Introduction
 # A brief introduction
 # I intend to share useful tools with people.
 # After an enlightening experience, I have decided to publish the majority of my library.
