@@ -7,4 +7,3 @@
 # "Python for Finance -- Analyze Big Financial Data" by Yves Hilpisch
 # "Statistics and Machine Learning in Python" by Duchesnay, Löfstedt, and Younes
 # Life is short, but a repository is forever.
-# Adam Reinhold Von Fisher
