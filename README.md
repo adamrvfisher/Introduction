@@ -6,4 +6,3 @@
 # "Statistics and Machine Learning in Python" by Duchesnay, Löfstedt, and Younes
 # SQL Cookbook by Anthony Molinaro
 # The depths of the internet
-# Life is short, but a repository is forever.
